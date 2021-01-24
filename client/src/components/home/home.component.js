@@ -43,9 +43,9 @@ const home = class home extends Component{
 
                 <div class="card text-center" >
                     <div class="card-body">
-                        <h5 class="card-title">Cheque Reader</h5>
-                        <p class="card-text">Submit your cheque for validation</p>
-                        <a href="/get-started" class="btn btn-primary">Get Started</a>
+                        <h5 class="card-title">Check Reader</h5>
+                        <p class="card-text">Submit your check for validation</p>
+                        <a href="/get-started" class="btn btn-primary">Get Started/Begin New Transaction</a>
                     </div>
                 </div>
             </div>

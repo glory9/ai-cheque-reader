@@ -15,7 +15,7 @@ const upload = class upload extends Component{
         return (
             <div>
                 <br></br><br></br>
-                <label for="formFileLg" class="form-label">Upload cheque image</label>
+                <label for="formFileLg" class="form-label">Please submit check image for validation</label>
                 <input class="form-control form-control-lg" id="formFileLg" type="file"/>
                 <a href="/results" class="btn btn-success">Submit</a>
             </div>
