@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ai-cheque-reader/static/css/main.1f6ebb16.chunk.css",
-    "main.js": "/ai-cheque-reader/static/js/main.075868e0.chunk.js",
-    "main.js.map": "/ai-cheque-reader/static/js/main.075868e0.chunk.js.map",
-    "runtime-main.js": "/ai-cheque-reader/static/js/runtime-main.d0621729.js",
-    "runtime-main.js.map": "/ai-cheque-reader/static/js/runtime-main.d0621729.js.map",
-    "static/css/2.150d169a.chunk.css": "/ai-cheque-reader/static/css/2.150d169a.chunk.css",
-    "static/js/2.cfe1395e.chunk.js": "/ai-cheque-reader/static/js/2.cfe1395e.chunk.js",
-    "static/js/2.cfe1395e.chunk.js.map": "/ai-cheque-reader/static/js/2.cfe1395e.chunk.js.map",
-    "static/js/3.bd9f7ee0.chunk.js": "/ai-cheque-reader/static/js/3.bd9f7ee0.chunk.js",
-    "static/js/3.bd9f7ee0.chunk.js.map": "/ai-cheque-reader/static/js/3.bd9f7ee0.chunk.js.map",
-    "index.html": "/ai-cheque-reader/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/ai-cheque-reader/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1f6ebb16.chunk.css.map": "/ai-cheque-reader/static/css/main.1f6ebb16.chunk.css.map",
-    "static/js/2.cfe1395e.chunk.js.LICENSE.txt": "/ai-cheque-reader/static/js/2.cfe1395e.chunk.js.LICENSE.txt"
+    "main.css": "/ai-cheque-reader/tree/master/client/static/css/main.66569d16.chunk.css",
+    "main.js": "/ai-cheque-reader/tree/master/client/static/js/main.b7fd0c5f.chunk.js",
+    "main.js.map": "/ai-cheque-reader/tree/master/client/static/js/main.b7fd0c5f.chunk.js.map",
+    "runtime-main.js": "/ai-cheque-reader/tree/master/client/static/js/runtime-main.145f400b.js",
+    "runtime-main.js.map": "/ai-cheque-reader/tree/master/client/static/js/runtime-main.145f400b.js.map",
+    "static/css/2.150d169a.chunk.css": "/ai-cheque-reader/tree/master/client/static/css/2.150d169a.chunk.css",
+    "static/js/2.565aafcd.chunk.js": "/ai-cheque-reader/tree/master/client/static/js/2.565aafcd.chunk.js",
+    "static/js/2.565aafcd.chunk.js.map": "/ai-cheque-reader/tree/master/client/static/js/2.565aafcd.chunk.js.map",
+    "static/js/3.bd9f7ee0.chunk.js": "/ai-cheque-reader/tree/master/client/static/js/3.bd9f7ee0.chunk.js",
+    "static/js/3.bd9f7ee0.chunk.js.map": "/ai-cheque-reader/tree/master/client/static/js/3.bd9f7ee0.chunk.js.map",
+    "index.html": "/ai-cheque-reader/tree/master/client/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ai-cheque-reader/tree/master/client/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.66569d16.chunk.css.map": "/ai-cheque-reader/tree/master/client/static/css/main.66569d16.chunk.css.map",
+    "static/js/2.565aafcd.chunk.js.LICENSE.txt": "/ai-cheque-reader/tree/master/client/static/js/2.565aafcd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0621729.js",
+    "static/js/runtime-main.145f400b.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.cfe1395e.chunk.js",
-    "static/css/main.1f6ebb16.chunk.css",
-    "static/js/main.075868e0.chunk.js"
+    "static/js/2.565aafcd.chunk.js",
+    "static/css/main.66569d16.chunk.css",
+    "static/js/main.b7fd0c5f.chunk.js"
   ]
 }
