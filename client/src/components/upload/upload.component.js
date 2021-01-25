@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 
 const upload = class upload extends Component{
+    
     constructor(props){
         super(props);
 
@@ -58,6 +59,7 @@ const upload = class upload extends Component{
                 <button class="btn btn-success">Generate</button>
             </section>
             </div>
+            
         )
     }
 }

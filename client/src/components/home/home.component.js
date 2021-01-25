@@ -49,6 +49,8 @@ const home = class home extends Component{
                     </div>
                 </div>
             </div>
+
+            
         )
     }
 }
