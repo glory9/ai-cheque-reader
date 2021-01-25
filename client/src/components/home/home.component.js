@@ -14,7 +14,21 @@ const home = class home extends Component{
     render(){
         return (
             <div>
-                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="https://picsum.photos/1000/250" class="d-block w-100" alt="..."/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://picsum.photos/1000/250" class="d-block w-100" alt="..."/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://picsum.photos/1000/250" class="d-block w-100" alt="..."/>
+                        </div>
+                    </div>
+                </div>
+
+                {/* <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
                         <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
@@ -22,7 +36,7 @@ const home = class home extends Component{
                     </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="https://picsum.photos/700/250" class="d-block w-100" alt="..."/>
+                        <img src="https://picsum.photos/1000/250" class="d-block w-100" alt="..."/>
                     </div>
                     <div class="carousel-item">
                         <img src="https://picsum.photos/700/250" class="d-block w-100" alt="..."/>
@@ -39,7 +53,7 @@ const home = class home extends Component{
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </a>
-                </div>
+                </div> */}
 
                 <div class="card text-center" >
                     <div class="card-body">
